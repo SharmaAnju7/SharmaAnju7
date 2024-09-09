@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anju Sharma</h1>
 <h3 align="center">As a passionate and dedicated Frontend Developer, I specialize in crafting intuitive and responsive web interfaces using modern technologies like Next.js, React.js, HTML, CSS, and JavaScript. With a strong foundation in web development, I am adept at building scalable, user-centric applications that deliver seamless user experiences across devices.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmaanju7&label=Profile%20views&color=0e75b6&style=flat" alt="sharmaanju7" /> </p>
+<p align="left"> <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwhh1lpihw7h587pb2iuc.png" alt="sharmaanju7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmaanju7" alt="sharmaanju7" /></a> </p>
 
