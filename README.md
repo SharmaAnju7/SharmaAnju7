@@ -3,8 +3,7 @@
 
 <!-- Animated Developer Illustration -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="400px" alt="Developer Illustration">
-</div>
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="sharmaanju7" />
 
 ## 🚀 About Me
 
