@@ -48,10 +48,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharmaanju7&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p align="center">
-    <!-- GitHub Stats Card -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmaanju7&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
+
 
 <p align="center">
     <!-- GitHub Streak Card -->
